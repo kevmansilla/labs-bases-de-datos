@@ -1,0 +1,9 @@
+# Parte I y II
+mysql -u kev -p < world-schema.sql 
+
+# Parte III y IV
+mysql -u kev -p < world-data.sql
+
+# Parte V 
+mysql -u kev -p < continent-data.sql
+
